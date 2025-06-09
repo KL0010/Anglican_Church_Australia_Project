@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Anglican_Church_Australia.props" />
+</Project>
