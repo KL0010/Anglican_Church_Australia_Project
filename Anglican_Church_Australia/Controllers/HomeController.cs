@@ -15,7 +15,13 @@ namespace Anglican_Church_Australia.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            Banner banner = new Banner();
+            banner.Id = 1;
+            banner.VideoUrl = string.Format("mp/Christ-Church-St-Laurence-Banner.mp4");
+            banner.ParishName = "Christ Church St Laurence";
+            banner.LogoUrl = string.Format("img/banner_logo_white.png");
+
+            return View(banner);
         }
 
         public IActionResult Privacy()

@@ -20,3 +20,104 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+
+#overlay-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 10; /* Ensure it's above the navbar */
+}
+
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+    width: 100%;
+    height: 100%;
+    overflow: auto
+}
+
+/* Add some content at the bottom of the video/page */
+.navigation {
+    position: fixed;
+    top: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+}
+
+.bottom {
+    position: fixed;
+    bottom: 30%;
+    width: 100%;
+    padding: 20px;
+    color: white;
+}
+
+h1 {
+    font-size: 80px;
+}
+
+#hamburger {
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2)), url('../img/hamburger.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 5px;
+}
+
+#first {
+    float: left;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+}
+
+#second {
+    position: absolute;
+    bottom: -50%;
+    width: 100vw;
+    height: 500px;
+}
+
+#clear {
+    clear: both;
+}
+
+img#bannerLogo {
+    width: 300px;
+    height: 50px;
+    display: block;
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        overflow-y: hidden; /* Hide vertical scrollbar */
+        overflow-x: hidden; /* Hide horizontal scrollbar */
+    }
+    #myVideo {
+        width: 100vw;
+        height: 100vh;
+        object-fit: cover;
+        position: fixed;
+        top: 0;
+        left: 0;
+        overflow: hidden
+    }
+    h1 {
+        font-size: 20px;
+    }
+    .bottom {
+        position: fixed;
+        bottom: 0%;
+        width: 100%;
+        padding: 20px;
+        color: white;
+    }
+    #second {
+        visibility: hidden
+    }
+
+}

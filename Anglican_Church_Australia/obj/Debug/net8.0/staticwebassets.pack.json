@@ -5,12 +5,28 @@
       "PackagePath": "staticwebassets\\Anglican_Church_Australia.7woczcmf39.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
       "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\banner_logo_white.png",
+      "PackagePath": "staticwebassets\\img\\banner_logo_white.png"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\hamburger.jpg",
+      "PackagePath": "staticwebassets\\img\\hamburger.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
     },
     {
       "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\js\\site.js",
@@ -243,6 +259,10 @@
     {
       "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\mp\\Christ-Church-St-Laurence-Banner.mp4",
+      "PackagePath": "staticwebassets\\mp\\Christ-Church-St-Laurence-Banner.mp4"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Anglican_Church_Australia.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

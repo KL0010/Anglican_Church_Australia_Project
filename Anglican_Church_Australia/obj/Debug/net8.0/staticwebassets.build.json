@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "i3nqSE6n/Cnhe+aWeTQRSuFcZgmR2zGRtr6QMhRB3/Q=",
+  "Hash": "jsvxl2y//y7PhSI2Zt8BSlHTpU1tolLsDvPQWIRHO9I=",
   "Source": "Anglican_Church_Australia",
   "BasePath": "_content/Anglican_Church_Australia",
   "Mode": "Default",
@@ -1319,6 +1319,27 @@
       "OriginalItemSpec": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Anglican_Church_Australia.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\css\\bootstrap.min.css",
+      "SourceId": "Anglican_Church_Australia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\",
+      "BasePath": "_content/Anglican_Church_Australia",
+      "RelativePath": "css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oucpf7knau",
+      "Integrity": "sAcc18zvMnaJZrNT4v8J0T4HqzEUiUTlVFgDIywjQek=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
+    },
+    {
       "Identity": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\css\\site.css",
       "SourceId": "Anglican_Church_Australia",
       "SourceType": "Discovered",
@@ -1333,8 +1354,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "18yir04fcn",
+      "Integrity": "wXjL3viuZs1/RTR+6MuJoWXgd9PRU8MH/d+9RORytrs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1359,6 +1380,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\banner_logo_white.png",
+      "SourceId": "Anglican_Church_Australia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\",
+      "BasePath": "_content/Anglican_Church_Australia",
+      "RelativePath": "img/banner_logo_white#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j5rqx9nsjf",
+      "Integrity": "Cf/G55mFMHmpWSmfNY5ILMzq9Z9tOASt+gFKAxwux7s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\banner_logo_white.png"
+    },
+    {
+      "Identity": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\hamburger.jpg",
+      "SourceId": "Anglican_Church_Australia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\",
+      "BasePath": "_content/Anglican_Church_Australia",
+      "RelativePath": "img/hamburger#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dp346vam5r",
+      "Integrity": "P1KoKnQfDk69KlcoAAa6IySuNjuMW+CNsp17hzshu58=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\hamburger.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "SourceId": "Anglican_Church_Australia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\",
+      "BasePath": "_content/Anglican_Church_Australia",
+      "RelativePath": "js/bootstrap.bundle.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rouz8oveg1",
+      "Integrity": "5aErhPlUPVujIxg3wvJGdWNAWqZqWCtvxACYX4XfSa0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.min.js"
     },
     {
       "Identity": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\js\\site.js",
@@ -2577,6 +2661,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\mp\\Christ-Church-St-Laurence-Banner.mp4",
+      "SourceId": "Anglican_Church_Australia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\",
+      "BasePath": "_content/Anglican_Church_Australia",
+      "RelativePath": "mp/Christ-Church-St-Laurence-Banner#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xohs4pfr2w",
+      "Integrity": "b3+mD9YdGJD+0qMvePSqNEHq3nNChSMjb7J5afnhLyE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\mp\\Christ-Church-St-Laurence-Banner.mp4"
     }
   ],
   "Endpoints": [
@@ -2745,8 +2850,8 @@
       ]
     },
     {
-      "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\css\\site.css",
+      "Route": "css/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2755,7 +2860,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "162764"
         },
         {
           "Name": "Content-Type",
@@ -2763,11 +2868,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"sAcc18zvMnaJZrNT4v8J0T4HqzEUiUTlVFgDIywjQek=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Jun 2025 01:51:36 GMT"
+          "Value": "Mon, 09 Jun 2025 12:55:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sAcc18zvMnaJZrNT4v8J0T4HqzEUiUTlVFgDIywjQek="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.oucpf7knau.css",
+      "AssetFile": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sAcc18zvMnaJZrNT4v8J0T4HqzEUiUTlVFgDIywjQek=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Jun 2025 12:55:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2777,7 +2919,52 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
+          "Value": "oucpf7knau"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sAcc18zvMnaJZrNT4v8J0T4HqzEUiUTlVFgDIywjQek="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.18yir04fcn.css",
+      "AssetFile": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2196"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wXjL3viuZs1/RTR+6MuJoWXgd9PRU8MH/d+9RORytrs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Jun 2025 00:24:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "18yir04fcn"
         },
         {
           "Name": "label",
@@ -2785,7 +2972,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-wXjL3viuZs1/RTR+6MuJoWXgd9PRU8MH/d+9RORytrs="
         }
       ]
     },
@@ -2800,7 +2987,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "2196"
         },
         {
           "Name": "Content-Type",
@@ -2808,11 +2995,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"wXjL3viuZs1/RTR+6MuJoWXgd9PRU8MH/d+9RORytrs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Jun 2025 01:51:36 GMT"
+          "Value": "Tue, 10 Jun 2025 00:24:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2822,7 +3009,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-wXjL3viuZs1/RTR+6MuJoWXgd9PRU8MH/d+9RORytrs="
         }
       ]
     },
@@ -5125,6 +5312,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "img/banner_logo_white.j5rqx9nsjf.png",
+      "AssetFile": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\banner_logo_white.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32399"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cf/G55mFMHmpWSmfNY5ILMzq9Z9tOASt+gFKAxwux7s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Jun 2025 00:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j5rqx9nsjf"
+        },
+        {
+          "Name": "label",
+          "Value": "img/banner_logo_white.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cf/G55mFMHmpWSmfNY5ILMzq9Z9tOASt+gFKAxwux7s="
+        }
+      ]
+    },
+    {
+      "Route": "img/banner_logo_white.png",
+      "AssetFile": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\banner_logo_white.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32399"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cf/G55mFMHmpWSmfNY5ILMzq9Z9tOASt+gFKAxwux7s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Jun 2025 00:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cf/G55mFMHmpWSmfNY5ILMzq9Z9tOASt+gFKAxwux7s="
+        }
+      ]
+    },
+    {
+      "Route": "img/hamburger.dp346vam5r.jpg",
+      "AssetFile": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\hamburger.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30744"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P1KoKnQfDk69KlcoAAa6IySuNjuMW+CNsp17hzshu58=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Jun 2025 13:12:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dp346vam5r"
+        },
+        {
+          "Name": "label",
+          "Value": "img/hamburger.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P1KoKnQfDk69KlcoAAa6IySuNjuMW+CNsp17hzshu58="
+        }
+      ]
+    },
+    {
+      "Route": "img/hamburger.jpg",
+      "AssetFile": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\hamburger.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30744"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P1KoKnQfDk69KlcoAAa6IySuNjuMW+CNsp17hzshu58=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Jun 2025 13:12:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P1KoKnQfDk69KlcoAAa6IySuNjuMW+CNsp17hzshu58="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5aErhPlUPVujIxg3wvJGdWNAWqZqWCtvxACYX4XfSa0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Jun 2025 12:56:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5aErhPlUPVujIxg3wvJGdWNAWqZqWCtvxACYX4XfSa0="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.min.rouz8oveg1.js",
+      "AssetFile": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5aErhPlUPVujIxg3wvJGdWNAWqZqWCtvxACYX4XfSa0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Jun 2025 12:56:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rouz8oveg1"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.bundle.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5aErhPlUPVujIxg3wvJGdWNAWqZqWCtvxACYX4XfSa0="
         }
       ]
     },
@@ -9881,6 +10314,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "mp/Christ-Church-St-Laurence-Banner.mp4",
+      "AssetFile": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\mp\\Christ-Church-St-Laurence-Banner.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45226729"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b3+mD9YdGJD+0qMvePSqNEHq3nNChSMjb7J5afnhLyE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Jun 2025 07:14:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-b3+mD9YdGJD+0qMvePSqNEHq3nNChSMjb7J5afnhLyE="
+        }
+      ]
+    },
+    {
+      "Route": "mp/Christ-Church-St-Laurence-Banner.xohs4pfr2w.mp4",
+      "AssetFile": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\mp\\Christ-Church-St-Laurence-Banner.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45226729"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b3+mD9YdGJD+0qMvePSqNEHq3nNChSMjb7J5afnhLyE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Jun 2025 07:14:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xohs4pfr2w"
+        },
+        {
+          "Name": "label",
+          "Value": "mp/Christ-Church-St-Laurence-Banner.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-b3+mD9YdGJD+0qMvePSqNEHq3nNChSMjb7J5afnhLyE="
         }
       ]
     }

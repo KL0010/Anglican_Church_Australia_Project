@@ -12,17 +12,29 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BSN\u002BKWT6WY2UdmMqdebu85RgdNUmBlKMstuw4IBHBZQ="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1143"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022\u002BSN\u002BKWT6WY2UdmMqdebu85RgdNUmBlKMstuw4IBHBZQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Jun 2025 02:45:34 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Anglican_Church_Australia/css/site.c2tiyv64ts.css">
+    <StaticWebAssetEndpoint Include="_content/Anglican_Church_Australia/css/bootstrap.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\bootstrap.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-sAcc18zvMnaJZrNT4v8J0T4HqzEUiUTlVFgDIywjQek="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"162764"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022sAcc18zvMnaJZrNT4v8J0T4HqzEUiUTlVFgDIywjQek=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Jun 2025 12:55:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Anglican_Church_Australia/css/bootstrap.min.oucpf7knau.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\bootstrap.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"oucpf7knau"},{"Name":"integrity","Value":"sha256-sAcc18zvMnaJZrNT4v8J0T4HqzEUiUTlVFgDIywjQek="},{"Name":"label","Value":"_content/Anglican_Church_Australia/css/bootstrap.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"162764"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022sAcc18zvMnaJZrNT4v8J0T4HqzEUiUTlVFgDIywjQek=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Jun 2025 12:55:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Anglican_Church_Australia/css/site.18yir04fcn.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c2tiyv64ts"},{"Name":"integrity","Value":"sha256-pAGv4ietcJNk/EwsQZ5BN9\u002BK4MuNYS2a9wl4Jw\u002Bq9D0="},{"Name":"label","Value":"_content/Anglican_Church_Australia/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"362"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022pAGv4ietcJNk/EwsQZ5BN9\u002BK4MuNYS2a9wl4Jw\u002Bq9D0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Jun 2025 01:51:36 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"18yir04fcn"},{"Name":"integrity","Value":"sha256-wXjL3viuZs1/RTR\u002B6MuJoWXgd9PRU8MH/d\u002B9RORytrs="},{"Name":"label","Value":"_content/Anglican_Church_Australia/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2196"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022wXjL3viuZs1/RTR\u002B6MuJoWXgd9PRU8MH/d\u002B9RORytrs=\u0022"},{"Name":"Last-Modified","Value":"Tue, 10 Jun 2025 00:24:55 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Anglican_Church_Australia/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pAGv4ietcJNk/EwsQZ5BN9\u002BK4MuNYS2a9wl4Jw\u002Bq9D0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"362"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022pAGv4ietcJNk/EwsQZ5BN9\u002BK4MuNYS2a9wl4Jw\u002Bq9D0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Jun 2025 01:51:36 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wXjL3viuZs1/RTR\u002B6MuJoWXgd9PRU8MH/d\u002B9RORytrs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2196"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022wXjL3viuZs1/RTR\u002B6MuJoWXgd9PRU8MH/d\u002B9RORytrs=\u0022"},{"Name":"Last-Modified","Value":"Tue, 10 Jun 2025 00:24:55 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Anglican_Church_Australia/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>
@@ -35,6 +47,42 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5430"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Jun 2025 01:51:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Anglican_Church_Australia/img/banner_logo_white.j5rqx9nsjf.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\banner_logo_white.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"j5rqx9nsjf"},{"Name":"integrity","Value":"sha256-Cf/G55mFMHmpWSmfNY5ILMzq9Z9tOASt\u002BgFKAxwux7s="},{"Name":"label","Value":"_content/Anglican_Church_Australia/img/banner_logo_white.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"32399"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Cf/G55mFMHmpWSmfNY5ILMzq9Z9tOASt\u002BgFKAxwux7s=\u0022"},{"Name":"Last-Modified","Value":"Tue, 10 Jun 2025 00:07:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Anglican_Church_Australia/img/banner_logo_white.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\banner_logo_white.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Cf/G55mFMHmpWSmfNY5ILMzq9Z9tOASt\u002BgFKAxwux7s="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"32399"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Cf/G55mFMHmpWSmfNY5ILMzq9Z9tOASt\u002BgFKAxwux7s=\u0022"},{"Name":"Last-Modified","Value":"Tue, 10 Jun 2025 00:07:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Anglican_Church_Australia/img/hamburger.dp346vam5r.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\hamburger.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dp346vam5r"},{"Name":"integrity","Value":"sha256-P1KoKnQfDk69KlcoAAa6IySuNjuMW\u002BCNsp17hzshu58="},{"Name":"label","Value":"_content/Anglican_Church_Australia/img/hamburger.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"30744"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022P1KoKnQfDk69KlcoAAa6IySuNjuMW\u002BCNsp17hzshu58=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Jun 2025 13:12:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Anglican_Church_Australia/img/hamburger.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\hamburger.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-P1KoKnQfDk69KlcoAAa6IySuNjuMW\u002BCNsp17hzshu58="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"30744"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022P1KoKnQfDk69KlcoAAa6IySuNjuMW\u002BCNsp17hzshu58=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Jun 2025 13:12:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Anglican_Church_Australia/js/bootstrap.bundle.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\bootstrap.bundle.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5aErhPlUPVujIxg3wvJGdWNAWqZqWCtvxACYX4XfSa0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"78871"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00225aErhPlUPVujIxg3wvJGdWNAWqZqWCtvxACYX4XfSa0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Jun 2025 12:56:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Anglican_Church_Australia/js/bootstrap.bundle.min.rouz8oveg1.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\bootstrap.bundle.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rouz8oveg1"},{"Name":"integrity","Value":"sha256-5aErhPlUPVujIxg3wvJGdWNAWqZqWCtvxACYX4XfSa0="},{"Name":"label","Value":"_content/Anglican_Church_Australia/js/bootstrap.bundle.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"78871"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00225aErhPlUPVujIxg3wvJGdWNAWqZqWCtvxACYX4XfSa0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Jun 2025 12:56:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Anglican_Church_Australia/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
@@ -731,6 +779,18 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1117"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Jun 2025 01:51:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Anglican_Church_Australia/mp/Christ-Church-St-Laurence-Banner.mp4">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\mp\Christ-Church-St-Laurence-Banner.mp4'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-b3\u002BmD9YdGJD\u002B0qMvePSqNEHq3nNChSMjb7J5afnhLyE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"45226729"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022b3\u002BmD9YdGJD\u002B0qMvePSqNEHq3nNChSMjb7J5afnhLyE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Jun 2025 07:14:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Anglican_Church_Australia/mp/Christ-Church-St-Laurence-Banner.xohs4pfr2w.mp4">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\mp\Christ-Church-St-Laurence-Banner.mp4'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xohs4pfr2w"},{"Name":"integrity","Value":"sha256-b3\u002BmD9YdGJD\u002B0qMvePSqNEHq3nNChSMjb7J5afnhLyE="},{"Name":"label","Value":"_content/Anglican_Church_Australia/mp/Christ-Church-St-Laurence-Banner.mp4"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"45226729"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022b3\u002BmD9YdGJD\u002B0qMvePSqNEHq3nNChSMjb7J5afnhLyE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Jun 2025 07:14:24 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>
