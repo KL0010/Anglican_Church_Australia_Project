@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Anglican_Church_Australia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5e67a3a41046bd98ba502c2ac44edd242143936")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7ba613d1a7c278ea440dd32598a7331e67999bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Anglican_Church_Australia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Anglican_Church_Australia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

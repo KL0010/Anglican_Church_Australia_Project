@@ -5,8 +5,20 @@
       "PackagePath": "staticwebassets\\Anglican_Church_Australia.7woczcmf39.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\Home\\Index.js",
+      "PackagePath": "staticwebassets\\Home\\Index.js"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\Home\\scrolldown.js",
+      "PackagePath": "staticwebassets\\Home\\scrolldown.js"
+    },
+    {
       "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\css\\bootstrap.min.css_Zone.Identifier_$DATA",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css_Zone.Identifier_$DATA"
     },
     {
       "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\css\\site.css",
@@ -17,16 +29,188 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\about\\about_marriage_one.png",
+      "PackagePath": "staticwebassets\\img\\about\\about_marriage_one.png"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\about\\about_vicar_one.png",
+      "PackagePath": "staticwebassets\\img\\about\\about_vicar_one.png"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\about\\about_worship.png",
+      "PackagePath": "staticwebassets\\img\\about\\about_worship.png"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\about\\about_worship_one.png",
+      "PackagePath": "staticwebassets\\img\\about\\about_worship_one.png"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\about\\contact_one.png",
+      "PackagePath": "staticwebassets\\img\\about\\contact_one.png"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\about\\contact_two.png",
+      "PackagePath": "staticwebassets\\img\\about\\contact_two.png"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\about\\livestreams.png",
+      "PackagePath": "staticwebassets\\img\\about\\livestreams.png"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\about\\ministry_one.png",
+      "PackagePath": "staticwebassets\\img\\about\\ministry_one.png"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\about\\ministry_three.png",
+      "PackagePath": "staticwebassets\\img\\about\\ministry_three.png"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\about\\ministry_two.png",
+      "PackagePath": "staticwebassets\\img\\about\\ministry_two.png"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\about\\music_one.png",
+      "PackagePath": "staticwebassets\\img\\about\\music_one.png"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\about\\music_two.png",
+      "PackagePath": "staticwebassets\\img\\about\\music_two.png"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\about\\support_one.png",
+      "PackagePath": "staticwebassets\\img\\about\\support_one.png"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\about\\support_two.png",
+      "PackagePath": "staticwebassets\\img\\about\\support_two.png"
+    },
+    {
       "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\banner_logo_white.png",
       "PackagePath": "staticwebassets\\img\\banner_logo_white.png"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\banner_logo_white_thumb.png",
+      "PackagePath": "staticwebassets\\img\\banner_logo_white_thumb.png"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\banner_logo_white_thumb.png_Zone.Identifier_$DATA",
+      "PackagePath": "staticwebassets\\img\\banner_logo_white_thumb.png_Zone.Identifier_$DATA"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\donate.png",
+      "PackagePath": "staticwebassets\\img\\donate.png"
     },
     {
       "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\hamburger.jpg",
       "PackagePath": "staticwebassets\\img\\hamburger.jpg"
     },
     {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\ministries.png",
+      "PackagePath": "staticwebassets\\img\\ministries.png"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\ministries.png_Zone.Identifier_$DATA",
+      "PackagePath": "staticwebassets\\img\\ministries.png_Zone.Identifier_$DATA"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\music.png",
+      "PackagePath": "staticwebassets\\img\\music.png"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\music.png_Zone.Identifier_$DATA",
+      "PackagePath": "staticwebassets\\img\\music.png_Zone.Identifier_$DATA"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\one.png",
+      "PackagePath": "staticwebassets\\img\\one.png"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\scroll_down.gif",
+      "PackagePath": "staticwebassets\\img\\scroll_down.gif"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\scroll_down.gif_Zone.Identifier_$DATA",
+      "PackagePath": "staticwebassets\\img\\scroll_down.gif_Zone.Identifier_$DATA"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\scroll_down.png",
+      "PackagePath": "staticwebassets\\img\\scroll_down.png"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\scroll_up.gif",
+      "PackagePath": "staticwebassets\\img\\scroll_up.gif"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\scroll_up.gif_Zone.Identifier_$DATA",
+      "PackagePath": "staticwebassets\\img\\scroll_up.gif_Zone.Identifier_$DATA"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\slider\\banquet.png",
+      "PackagePath": "staticwebassets\\img\\slider\\banquet.png"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\slider\\evensong.png",
+      "PackagePath": "staticwebassets\\img\\slider\\evensong.png"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\slider\\evensong.png_Zone.Identifier_$DATA",
+      "PackagePath": "staticwebassets\\img\\slider\\evensong.png_Zone.Identifier_$DATA"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\slider\\monteverdi.png",
+      "PackagePath": "staticwebassets\\img\\slider\\monteverdi.png"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\slider\\monteverdi.png_Zone.Identifier_$DATA",
+      "PackagePath": "staticwebassets\\img\\slider\\monteverdi.png_Zone.Identifier_$DATA"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\slider\\oxford.png",
+      "PackagePath": "staticwebassets\\img\\slider\\oxford.png"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\slider\\oxford.png_Zone.Identifier_$DATA",
+      "PackagePath": "staticwebassets\\img\\slider\\oxford.png_Zone.Identifier_$DATA"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\slider\\restoration.png",
+      "PackagePath": "staticwebassets\\img\\slider\\restoration.png"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\three.png",
+      "PackagePath": "staticwebassets\\img\\three.png"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\trinity.png",
+      "PackagePath": "staticwebassets\\img\\trinity.png"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\trinity.png_Zone.Identifier_$DATA",
+      "PackagePath": "staticwebassets\\img\\trinity.png_Zone.Identifier_$DATA"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\two.png",
+      "PackagePath": "staticwebassets\\img\\two.png"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\img\\worship.png",
+      "PackagePath": "staticwebassets\\img\\worship.png"
+    },
+    {
       "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\js\\bootstrap.bundle.min.js_Zone.Identifier_$DATA",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js_Zone.Identifier_$DATA"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\js\\jquery.min.js_Zone.Identifier_$DATA",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js_Zone.Identifier_$DATA"
     },
     {
       "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\js\\site.js",
@@ -263,6 +447,10 @@
     {
       "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\mp\\Christ-Church-St-Laurence-Banner.mp4",
       "PackagePath": "staticwebassets\\mp\\Christ-Church-St-Laurence-Banner.mp4"
+    },
+    {
+      "Id": "C:\\Users\\vboxuser\\Desktop\\projects\\Anglican_Church_Australia\\Anglican_Church_Australia\\wwwroot\\mp\\Christ-Church-St-Laurence-Banner.mp4_Zone.Identifier_$DATA",
+      "PackagePath": "staticwebassets\\mp\\Christ-Church-St-Laurence-Banner.mp4_Zone.Identifier_$DATA"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Anglican_Church_Australia.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
